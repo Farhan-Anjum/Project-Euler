@@ -1,0 +1,9 @@
+Problem No.7
+10001st prime
+
+Problem URL: https://projecteuler.net/problem=7
+
+Concept: The prime factors of a number are the prime numbers that multiply together to give that number. 
+In simpler terms, prime factors are the building blocks of a number, and when you multiply them, 
+you get the original number. 
+For example, the prime factors of 12 are 2 and 3 because 2 * 2 * 3 equals 12.
